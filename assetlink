@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.droidhen.game.xrunne",
+    "sha256_cert_fingerprints":
+    ["54:3E:01:77:0D:32:DF:AA:B5:47:F8:4A:25:ED:FC:4F:76:94:48:42:D0:50:D4:EF:09:6F:33:8C:84:B1:24:87"]
+  }
+}]
