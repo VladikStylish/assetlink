@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.royalcrownquizgame",
+    "package_name": "com.badenbadengalaxyy",
     "sha256_cert_fingerprints":
-    ["E0:E6:EB:79:BA:D7:C3:3B:91:D7:D8:7C:C6:71:EF:B5:96:B7:01:D0:A1:C4:C1:58:42:F5:FC:4E:DE:3C:5D:08"]
+    ["ED:89:6C:50:8A:A6:73:0A:2B:61:37:D4:AB:6E:0D:E0:C6:87:33:BD:21:A6:56:EE:A5:85:EA:1E:06:90:8C:EE"]
   }
 }]
