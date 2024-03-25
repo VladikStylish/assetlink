@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.badenbadengalaxyy",
+    "package_name": "com.colorsblenderus",
     "sha256_cert_fingerprints":
-    ["ED:89:6C:50:8A:A6:73:0A:2B:61:37:D4:AB:6E:0D:E0:C6:87:33:BD:21:A6:56:EE:A5:85:EA:1E:06:90:8C:EE"]
+     ["FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"]
   }
 }]
